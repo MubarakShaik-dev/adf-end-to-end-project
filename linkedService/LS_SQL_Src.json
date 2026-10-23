@@ -1,0 +1,14 @@
+{
+	"name": "LS_SQL_Src",
+	"properties": {
+		"annotations": [],
+		"type": "AzureSqlDatabase",
+		"typeProperties": {
+			"server": "server-uber-eats.database.windows.net",
+			"database": "DB-uber-eats",
+			"encrypt": "mandatory",
+			"trustServerCertificate": false,
+			"authenticationType": "SystemAssignedManagedIdentity"
+		}
+	}
+}
