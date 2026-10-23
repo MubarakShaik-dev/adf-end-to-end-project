@@ -1,0 +1,10 @@
+{
+	"name": "LS_ADLS_Sink",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobFS",
+		"typeProperties": {
+			"url": "https://adlsubereats1.dfs.core.windows.net/"
+		}
+	}
+}
